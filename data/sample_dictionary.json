@@ -1,0 +1,457 @@
+[
+ {
+  "word": "python",
+  "phonetic": "/ˈpaɪθɑːn/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A large non-venomous snake that kills prey by squeezing it.",
+    "example": "The python coiled around the branch."
+   },
+   {
+    "part_of_speech": "noun",
+    "definition": "A popular high-level programming language known for readable syntax.",
+    "example": "She wrote the script in Python.",
+    "etymology": "The language was named after the comedy group Monty Python, not the snake."
+   }
+  ]
+ },
+ {
+  "word": "algorithm",
+  "phonetic": "/ˈælɡərɪðəm/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A step-by-step procedure for solving a problem or completing a task, especially by a computer.",
+    "example": "Binary search is a fast algorithm for sorted lists.",
+    "synonyms": "procedure, method",
+    "etymology": "From the name of the Persian mathematician al-Khwarizmi."
+   }
+  ]
+ },
+ {
+  "word": "database",
+  "phonetic": "/ˈdeɪtəbeɪs/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "An organised collection of data stored so that it can be easily searched, updated and managed.",
+    "example": "The app keeps all words in a SQLite database.",
+    "synonyms": "data store"
+   }
+  ]
+ },
+ {
+  "word": "variable",
+  "phonetic": "/ˈvɛəriəbəl/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A named storage location in a program whose value can change.",
+    "example": "The variable count starts at zero."
+   },
+   {
+    "part_of_speech": "adjective",
+    "definition": "Likely to change or vary; not fixed.",
+    "example": "The weather here is highly variable.",
+    "synonyms": "changeable",
+    "antonyms": "constant"
+   }
+  ]
+ },
+ {
+  "word": "function",
+  "phonetic": "/ˈfʌŋkʃən/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A reusable block of code that performs a specific task and may return a value.",
+    "example": "Define a function to square a number."
+   },
+   {
+    "part_of_speech": "noun",
+    "definition": "The purpose or role that something has.",
+    "example": "The function of a heart is to pump blood."
+   },
+   {
+    "part_of_speech": "verb",
+    "definition": "To work or operate in the expected way.",
+    "example": "The old machine still functions.",
+    "synonyms": "operate, work"
+   }
+  ]
+ },
+ {
+  "word": "recursion",
+  "phonetic": "/rɪˈkɜːʒən/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A technique in which a function solves a problem by calling itself on smaller versions of the same problem.",
+    "example": "Computing factorials is a classic example of recursion."
+   }
+  ]
+ },
+ {
+  "word": "compiler",
+  "phonetic": "/kəmˈpaɪlər/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A program that translates source code written in one language into another form, usually machine code.",
+    "example": "The compiler reported two syntax errors."
+   }
+  ]
+ },
+ {
+  "word": "bug",
+  "phonetic": "/bʌɡ/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A flaw or error in software that causes it to behave unexpectedly.",
+    "example": "We fixed the bug that crashed the search page.",
+    "synonyms": "defect, glitch"
+   },
+   {
+    "part_of_speech": "noun",
+    "definition": "A small insect.",
+    "example": "A bug landed on the window."
+   }
+  ]
+ },
+ {
+  "word": "network",
+  "phonetic": "/ˈnɛtwɜːk/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A group of computers and devices connected so they can share data.",
+    "example": "The office network was down all morning."
+   },
+   {
+    "part_of_speech": "verb",
+    "definition": "To meet and exchange information with people for professional benefit.",
+    "example": "She networks at every conference."
+   }
+  ]
+ },
+ {
+  "word": "array",
+  "phonetic": "/əˈreɪ/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "An ordered collection of items stored together, each accessed by its position.",
+    "example": "The array holds five numbers."
+   },
+   {
+    "part_of_speech": "noun",
+    "definition": "An impressive range or display of things.",
+    "example": "The shop sells a wide array of teas."
+   }
+  ]
+ },
+ {
+  "word": "loop",
+  "phonetic": "/luːp/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A programming structure that repeats a set of instructions until a condition is met.",
+    "example": "The loop prints each word in the list."
+   },
+   {
+    "part_of_speech": "noun",
+    "definition": "A shape formed by a curve that crosses or closely approaches itself.",
+    "example": "He tied the rope in a loop."
+   }
+  ]
+ },
+ {
+  "word": "offline",
+  "phonetic": "/ˌɒfˈlaɪn/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "adjective",
+    "definition": "Not connected to the internet or a network.",
+    "example": "The dictionary works offline.",
+    "synonyms": "disconnected",
+    "antonyms": "online"
+   }
+  ]
+ },
+ {
+  "word": "dictionary",
+  "phonetic": "/ˈdɪkʃənɛri/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A reference book or program listing words with their meanings, and often pronunciation and origin.",
+    "example": "Look the word up in a dictionary."
+   },
+   {
+    "part_of_speech": "noun",
+    "definition": "In programming, a collection of key–value pairs.",
+    "example": "A Python dict maps keys to values."
+   }
+  ]
+ },
+ {
+  "word": "serene",
+  "phonetic": "/səˈriːn/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "adjective",
+    "definition": "Calm, peaceful and untroubled.",
+    "example": "The lake was serene at dawn.",
+    "synonyms": "calm, tranquil",
+    "antonyms": "stormy, agitated",
+    "etymology": "From Latin serenus, meaning clear or fair."
+   }
+  ]
+ },
+ {
+  "word": "ephemeral",
+  "phonetic": "/ɪˈfɛmərəl/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "adjective",
+    "definition": "Lasting for a very short time.",
+    "example": "Fame can be ephemeral.",
+    "synonyms": "fleeting, brief",
+    "antonyms": "lasting, permanent",
+    "etymology": "From Greek ephēmeros, meaning lasting only a day."
+   }
+  ]
+ },
+ {
+  "word": "ubiquitous",
+  "phonetic": "/juːˈbɪkwɪtəs/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "adjective",
+    "definition": "Present or found everywhere.",
+    "example": "Smartphones are now ubiquitous.",
+    "synonyms": "omnipresent, pervasive",
+    "antonyms": "rare"
+   }
+  ]
+ },
+ {
+  "word": "resilient",
+  "phonetic": "/rɪˈzɪliənt/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "adjective",
+    "definition": "Able to recover quickly from difficulties, or to spring back into shape.",
+    "example": "Children are often remarkably resilient.",
+    "synonyms": "tough, adaptable",
+    "antonyms": "fragile"
+   }
+  ]
+ },
+ {
+  "word": "curious",
+  "phonetic": "/ˈkjʊəriəs/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "adjective",
+    "definition": "Eager to learn or know something.",
+    "example": "A curious student asks many questions.",
+    "synonyms": "inquisitive",
+    "antonyms": "indifferent"
+   },
+   {
+    "part_of_speech": "adjective",
+    "definition": "Strange or unusual.",
+    "example": "A curious smell filled the room.",
+    "synonyms": "odd, peculiar"
+   }
+  ]
+ },
+ {
+  "word": "library",
+  "phonetic": "/ˈlaɪbrəri/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A place where books and other resources are kept for reading or borrowing.",
+    "example": "She borrowed three books from the library."
+   },
+   {
+    "part_of_speech": "noun",
+    "definition": "A collection of pre-written code that programs can reuse.",
+    "example": "CustomTkinter is a Python library for building interfaces."
+   }
+  ]
+ },
+ {
+  "word": "queue",
+  "phonetic": "/kjuː/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A line of people or things waiting for their turn.",
+    "example": "A long queue formed at the door."
+   },
+   {
+    "part_of_speech": "noun",
+    "definition": "A data structure in which items are removed in the order they were added (first in, first out).",
+    "example": "The print jobs wait in a queue."
+   }
+  ]
+ },
+ {
+  "word": "stack",
+  "phonetic": "/stæk/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A neat pile of objects placed one on top of another.",
+    "example": "A stack of plates sat by the sink."
+   },
+   {
+    "part_of_speech": "noun",
+    "definition": "A data structure in which the most recently added item is removed first (last in, first out).",
+    "example": "Undo history is often kept in a stack."
+   }
+  ]
+ },
+ {
+  "word": "binary",
+  "phonetic": "/ˈbaɪnəri/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "adjective",
+    "definition": "Made up of two parts or involving two options.",
+    "example": "A binary choice has only two answers."
+   },
+   {
+    "part_of_speech": "noun",
+    "definition": "A number system that uses only the digits 0 and 1.",
+    "example": "Computers store information in binary."
+   }
+  ]
+ },
+ {
+  "word": "cache",
+  "phonetic": "/kæʃ/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "A fast storage area that keeps copies of frequently used data so it can be retrieved quickly.",
+    "example": "The browser stores images in its cache."
+   },
+   {
+    "part_of_speech": "verb",
+    "definition": "To store data in a cache for faster access later.",
+    "example": "The app caches recent results."
+   }
+  ]
+ },
+ {
+  "word": "run",
+  "phonetic": "/rʌn/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "verb",
+    "definition": "To move quickly on foot.",
+    "example": "She runs every morning.",
+    "synonyms": "sprint, jog",
+    "antonyms": "walk"
+   },
+   {
+    "part_of_speech": "verb",
+    "definition": "To execute a program.",
+    "example": "Run the script from the terminal.",
+    "synonyms": "execute, launch"
+   },
+   {
+    "part_of_speech": "noun",
+    "definition": "An act of running, or a continuous period of something.",
+    "example": "They went for a short run."
+   }
+  ]
+ },
+ {
+  "word": "light",
+  "phonetic": "/laɪt/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "noun",
+    "definition": "The natural brightness that makes things visible.",
+    "example": "Light streamed through the window.",
+    "synonyms": "illumination",
+    "antonyms": "darkness"
+   },
+   {
+    "part_of_speech": "adjective",
+    "definition": "Not heavy; of little weight.",
+    "example": "The bag was surprisingly light.",
+    "synonyms": "weightless",
+    "antonyms": "heavy"
+   },
+   {
+    "part_of_speech": "verb",
+    "definition": "To make something burn or become bright.",
+    "example": "Light the candles.",
+    "synonyms": "ignite"
+   }
+  ]
+ },
+ {
+  "word": "benevolent",
+  "phonetic": "/bəˈnɛvələnt/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "adjective",
+    "definition": "Kind, generous and wishing to do good for others.",
+    "example": "A benevolent donor funded the library.",
+    "synonyms": "kindly, charitable",
+    "antonyms": "malevolent",
+    "etymology": "From Latin bene volens, meaning well wishing."
+   }
+  ]
+ },
+ {
+  "word": "happy",
+  "phonetic": "/ˈhæpi/",
+  "source": "PyDictionary Offline sample data (demonstration only, not a complete dictionary)",
+  "meanings": [
+   {
+    "part_of_speech": "adjective",
+    "definition": "Feeling or showing pleasure and contentment.",
+    "example": "The children were happy to see the snow.",
+    "synonyms": "joyful, glad",
+    "antonyms": "sad, unhappy"
+   }
+  ]
+ }
+]

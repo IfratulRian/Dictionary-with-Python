@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+# Private user data: never commit
+user_data/*
+!user_data/.gitkeep
+*.db
+*.db-wal
+*.db-shm
+*.log
+# Large dictionary datasets you download yourself
+data/*
+!data/sample_dictionary.json
+.vscode/

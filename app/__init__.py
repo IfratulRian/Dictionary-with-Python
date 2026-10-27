@@ -1,0 +1,1 @@
+"""PyDictionary Offline - application package."""
